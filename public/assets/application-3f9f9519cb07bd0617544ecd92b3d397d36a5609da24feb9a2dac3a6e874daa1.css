@@ -1,0 +1,110 @@
+/* line 1, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+body {
+  background-color: yellow;
+  background-image: url(/assets/rails-36c6c082898e97672b635dc77b878cc58341a746644c69e28e00f6821f0f7bba.png);
+  color: #333;
+  margin: 33px;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 11, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+/* line 17, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 23, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+a {
+  color: #000;
+}
+/* line 26, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+a:visited {
+  color: #666;
+}
+/* line 30, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 36, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+th {
+  padding-bottom: 5px;
+}
+
+/* line 40, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+td {
+  padding: 0 5px 7px;
+}
+
+/* line 45, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+/* line 50, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+#notice {
+  color: green;
+}
+
+/* line 54, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 60, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px 7px 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 67, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px -7px 0;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 77, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+/* line 83, /vagrant/workspace/modulo_03/crypto_wallet/app/assets/stylesheets/scaffolds.scss.erb */
+label {
+  display: block;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
